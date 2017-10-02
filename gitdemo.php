@@ -8,4 +8,5 @@
  */
 $first = "Clark";
 $last = "Alexander";
-echo "$first $last";
+echo "$first $last<br />";
+echo $first . " " . $last;
