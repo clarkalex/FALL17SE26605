@@ -6,3 +6,6 @@
  * Date: 10/2/2017
  * Time: 9:58 AM
  */
+$first = "Clark";
+$last = "Alexander";
+echo "$first $last";
