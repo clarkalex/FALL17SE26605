@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bfec86e-5856-4152-b486-6ffbc2937bad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="1bfec86e-5856-4152-b486-6ffbc2937bad" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,8 @@
             <state relative-caret-position="119">
               <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding>
-                <marker date="1507734647447" expanded="true" signature="690:744" ph="INSERT INTO dogs... " />
-                <marker date="1507734647447" expanded="true" signature="1401:1419" ph="SELECT * FRO... dogs" />
+                <marker date="1507734861101" expanded="true" signature="690:744" ph="INSERT INTO dogs... " />
+                <marker date="1507734861101" expanded="true" signature="1401:1419" ph="SELECT * FRO... dogs" />
               </folding>
             </state>
           </provider>
@@ -58,8 +56,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="339" />
-    <option name="y" value="85" />
+    <option name="x" value="76" />
+    <option name="y" value="18" />
     <option name="width" value="1615" />
     <option name="height" value="1000" />
   </component>
@@ -125,16 +123,15 @@
       <workItem from="1506952622779" duration="1269000" />
       <workItem from="1506954286399" duration="727000" />
       <workItem from="1507128336987" duration="1553000" />
-      <workItem from="1507729504604" duration="5294000" />
+      <workItem from="1507729504604" duration="5434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10458000" />
+    <option name="totallyTimeSpent" value="10598000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="339" y="85" width="1615" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="76" y="18" width="1615" height="1000" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21575984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -285,8 +282,8 @@
         <state relative-caret-position="119">
           <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
-            <marker date="1507734647447" expanded="true" signature="690:744" ph="INSERT INTO dogs... " />
-            <marker date="1507734647447" expanded="true" signature="1401:1419" ph="SELECT * FRO... dogs" />
+            <marker date="1507734861101" expanded="true" signature="690:744" ph="INSERT INTO dogs... " />
+            <marker date="1507734861101" expanded="true" signature="1401:1419" ph="SELECT * FRO... dogs" />
           </folding>
         </state>
       </provider>
