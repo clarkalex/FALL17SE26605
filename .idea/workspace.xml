@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bfec86e-5856-4152-b486-6ffbc2937bad" name="Default" comment="" />
+    <list default="true" id="1bfec86e-5856-4152-b486-6ffbc2937bad" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wk3demo/assets/dogs.php" afterPath="$PROJECT_DIR$/wk3demo/assets/dogs.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +19,11 @@
           <file leaf-file-name="dogs.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wk3demo/assets/dogs.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="301">
-                  <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+                <state relative-caret-position="589">
+                  <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
                   <folding>
-                    <marker date="1508163572160" expanded="true" signature="151:169" ph="SELECT * FRO... dogs" />
-                    <marker date="1508163572160" expanded="true" signature="878:932" ph="INSERT INTO dogs... " />
+                    <marker date="1508164969457" expanded="true" signature="151:169" ph="SELECT * FRO... dogs" />
+                    <marker date="1508164969457" expanded="true" signature="1280:1334" ph="INSERT INTO dogs... " />
                   </folding>
                 </state>
               </provider>
@@ -68,8 +71,8 @@
         <option value="$PROJECT_DIR$/wk3demo/assets/footer.php" />
         <option value="$PROJECT_DIR$/wk3demo/assets/dbconn.php" />
         <option value="$PROJECT_DIR$/wk3demo/assets/dogform.php" />
-        <option value="$PROJECT_DIR$/wk3demo/assets/dogs.php" />
         <option value="$PROJECT_DIR$/wk3demo/index.php" />
+        <option value="$PROJECT_DIR$/wk3demo/assets/dogs.php" />
       </list>
     </option>
   </component>
@@ -83,7 +86,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -171,15 +174,15 @@
       <workItem from="1506954286399" duration="727000" />
       <workItem from="1507128336987" duration="1553000" />
       <workItem from="1507729504604" duration="5434000" />
-      <workItem from="1508153617983" duration="10250000" />
+      <workItem from="1508153617983" duration="11366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20848000" />
+    <option name="totallyTimeSpent" value="21964000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.215625" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
@@ -373,12 +376,12 @@
         <state relative-caret-position="192">
           <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding>
-            <marker date="1508155971408" expanded="true" signature="5:94" ph="..." />
-            <marker date="1508155971408" expanded="false" signature="9:91" ph=" Created by PhpStorm. ..." />
-            <marker date="1508155971408" expanded="true" signature="128:314" ph="..." />
-            <marker date="1508155971408" expanded="true" signature="135:262" ph="..." />
-            <marker date="1508155971408" expanded="true" signature="269:314" ph="..." />
-            <marker date="1508155971408" expanded="true" signature="278:304" ph="..." />
+            <marker date="1508164336025" expanded="true" signature="5:94" ph="..." />
+            <marker date="1508164336025" expanded="false" signature="9:91" ph=" Created by PhpStorm. ..." />
+            <marker date="1508164336025" expanded="true" signature="128:314" ph="..." />
+            <marker date="1508164336025" expanded="true" signature="135:262" ph="..." />
+            <marker date="1508164336025" expanded="true" signature="269:314" ph="..." />
+            <marker date="1508164336025" expanded="true" signature="278:304" ph="..." />
           </folding>
         </state>
       </provider>
@@ -409,9 +412,9 @@
         <state relative-caret-position="144">
           <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
           <folding>
-            <marker date="1508162979489" expanded="true" signature="5:94" ph="..." />
-            <marker date="1508162979489" expanded="false" signature="9:91" ph=" Created by PhpStorm. ..." />
-            <marker date="1508162979489" expanded="true" signature="127:453" ph="..." />
+            <marker date="1508164336021" expanded="true" signature="5:94" ph="..." />
+            <marker date="1508164336021" expanded="false" signature="9:91" ph=" Created by PhpStorm. ..." />
+            <marker date="1508164336021" expanded="true" signature="127:453" ph="..." />
           </folding>
         </state>
       </provider>
@@ -426,11 +429,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wk3demo/assets/dogs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="589">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding>
-            <marker date="1508163572160" expanded="true" signature="151:169" ph="SELECT * FRO... dogs" />
-            <marker date="1508163572160" expanded="true" signature="878:932" ph="INSERT INTO dogs... " />
+            <marker date="1508164969457" expanded="true" signature="151:169" ph="SELECT * FRO... dogs" />
+            <marker date="1508164969457" expanded="true" signature="1280:1334" ph="INSERT INTO dogs... " />
           </folding>
         </state>
       </provider>
