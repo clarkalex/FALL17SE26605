@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bfec86e-5856-4152-b486-6ffbc2937bad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wk3demo/assets/dogs.php" afterPath="$PROJECT_DIR$/wk3demo/assets/dogs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wk3demo/index.php" afterPath="$PROJECT_DIR$/wk3demo/index.php" />
-    </list>
+    <list default="true" id="1bfec86e-5856-4152-b486-6ffbc2937bad" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,14 +10,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.55942625">
+    <splitter split-orientation="vertical" split-proportion="0.7510246">
       <split-first>
         <leaf>
           <file leaf-file-name="dogs.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wk3demo/assets/dogs.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="253">
-                  <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+                <state relative-caret-position="301">
+                  <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
                   <folding>
                     <marker date="1508163572160" expanded="true" signature="151:169" ph="SELECT * FRO... dogs" />
                     <marker date="1508163572160" expanded="true" signature="878:932" ph="INSERT INTO dogs... " />
@@ -174,12 +171,12 @@
       <workItem from="1506954286399" duration="727000" />
       <workItem from="1507128336987" duration="1553000" />
       <workItem from="1507729504604" duration="5434000" />
-      <workItem from="1508153617983" duration="10046000" />
+      <workItem from="1508153617983" duration="10250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20644000" />
+    <option name="totallyTimeSpent" value="20848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -429,8 +426,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wk3demo/assets/dogs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="301">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <marker date="1508163572160" expanded="true" signature="151:169" ph="SELECT * FRO... dogs" />
             <marker date="1508163572160" expanded="true" signature="878:932" ph="INSERT INTO dogs... " />
