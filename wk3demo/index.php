@@ -12,6 +12,12 @@ $gender = filter_input(INPUT_POST, 'gender', FILTER_VALIDATE_REGEXP,
     )??"";
 $fixed = filter_input(INPUT_POST, 'fixed', FILTER_VALIDATE_BOOLEAN) ?? false;
 $id = filter_input(INPUT_POST, 'id', FILTER_VALIDATE_INT) ?? null;
+
+$dog=['name'=>"",
+        'gender'=>"",
+        'fixed'=>""
+    ]; // Initialize to empty strings to avoid notices
+$button="Add"; // Initialize to default action
 switch ($action){
     case "Add":
         addDog($db, $name, $gender, $fixed);
@@ -20,11 +26,17 @@ switch ($action){
     case "Edit":
         $dog = getDog($db, $id);
         $button = "Update";
-        echo $button;
         break;
     case "Update":
+        updateDog($db, $name, $gender, $fixed, $id);
+        $dog=['name'=>"",
+            'gender'=>"",
+            'fixed'=>""
+        ]; // Clear the form
+        $button="Add"; // Reinitialize to default action
         break;
     case "Delete":
+        deleteDog($db, $id);
         break;
 }
 

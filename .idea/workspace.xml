@@ -7,6 +7,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wk3demo/assets/dogs.php" afterPath="$PROJECT_DIR$/wk3demo/assets/dogs.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wk3demo/index.php" afterPath="$PROJECT_DIR$/wk3demo/index.php" />
     </list>
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,37 +15,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="htdocs" />
+  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.4962963">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="dogform.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/wk3demo/assets/dogform.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="192">
-                  <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/wk3demo/index.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="23">
-                  <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,6 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -69,29 +50,37 @@
         <option value="$PROJECT_DIR$/wk3demo/assets/header.php" />
         <option value="$PROJECT_DIR$/wk3demo/assets/footer.php" />
         <option value="$PROJECT_DIR$/wk3demo/assets/dbconn.php" />
-        <option value="$PROJECT_DIR$/wk3demo/assets/dogs.php" />
         <option value="$PROJECT_DIR$/wk3demo/index.php" />
         <option value="$PROJECT_DIR$/wk3demo/assets/dogform.php" />
+        <option value="$PROJECT_DIR$/wk3demo/assets/dogs.php" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="430" />
+    <option name="y" value="22" />
+    <option name="width" value="1991" />
+    <option name="height" value="1205" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -107,42 +96,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wk2demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wk3demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wk3demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="E:/PortableGit/bin/git.exe" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,9 +140,32 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
   </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -167,33 +174,34 @@
       <changelist id="1bfec86e-5856-4152-b486-6ffbc2937bad" name="Default" comment="" />
       <created>1506952616219</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
       <updated>1506952616219</updated>
       <workItem from="1506952622779" duration="1269000" />
       <workItem from="1506954286399" duration="727000" />
       <workItem from="1507128336987" duration="1553000" />
       <workItem from="1507729504604" duration="5434000" />
       <workItem from="1508153617983" duration="11630000" />
-      <workItem from="1508333921698" duration="1503000" />
+      <workItem from="1508333921698" duration="2087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23731000" />
+    <option name="totallyTimeSpent" value="24315000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="430" y="22" width="1991" height="1205" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.215625" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15848102" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -225,6 +233,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -235,243 +251,221 @@
           <url>file://$PROJECT_DIR$/wk2demo/formdemo.php</url>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wk3demo/assets/dogform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wk3demo/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wk3demo/assets/dogs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
           <folding>
-            <marker date="1508334910693" expanded="true" signature="9:91" ph=" Created by PhpStorm. ..." />
-            <marker date="1508334910693" expanded="false" signature="124:1192" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="134:1106" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="151:169" ph="SELECT * FRO... dogs" />
-            <marker date="1508334910693" expanded="true" signature="317:995" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="397:941" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1003:1077" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1132:1190" ph="..." />
-            <marker date="1508334910693" expanded="false" signature="1240:1611" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1250:1529" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1280:1334" ph="INSERT INTO dogs... " />
-            <marker date="1508334910693" expanded="true" signature="1556:1609" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1640:1832" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1666:1699" ph="SELECT * FRO... dogs" />
+            <element signature="n#getDogsAsTable#0;n#!!top" expanded="false" />
+            <marker date="1508880362421" expanded="true" signature="151:169" placeholder="..." />
+            <marker date="1508880362421" expanded="true" signature="1290:1344" placeholder="..." />
+            <marker date="1508880362421" expanded="true" signature="1676:1709" placeholder="..." />
+            <marker date="1508880362421" expanded="true" signature="1937:2012" placeholder="UPDATE `dogs... " />
+            <marker date="1508880362421" expanded="true" signature="1943:2012" placeholder="INSERT INTO dogs... " />
+            <marker date="1508880362421" expanded="true" signature="2502:2533" placeholder="DELETE FROM " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wk3demo/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="53" lean-forward="true" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wk2demo/formdemo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1508154629123" expanded="true" signature="5:1042" ph="..." />
-            <marker date="1508154629123" expanded="false" signature="9:91" ph=" Created by PhpStorm. ..." />
-            <marker date="1508154629123" expanded="true" signature="96:184" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="336:960" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="542:958" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="692:746" ph="INSERT INTO dogs... " />
-            <marker date="1508154629123" expanded="true" signature="987:1038" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="1074:1376" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="1384:1578" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="1406:1424" ph="SELECT * FRO... dogs" />
-            <marker date="1508154629123" expanded="true" signature="1513:1576" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="1546:1574" ph="..." />
+            <marker date="1508337874679" expanded="true" signature="5:1042" placeholder="..." />
+            <marker date="1508337874679" expanded="false" signature="9:91" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="96:184" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="336:960" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="542:958" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="692:746" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="987:1038" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="1074:1376" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="1384:1578" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="1406:1424" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="1513:1576" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="1546:1574" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mult.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="11" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/a1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mult.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gitdemo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1506956751345" expanded="true" signature="21:102" ph=" Created by PhpStorm. ..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gitdemo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <marker date="1506956751345" expanded="true" signature="21:102" ph=" Created by PhpStorm. ..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mult.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gitdemo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1506956751345" expanded="true" signature="21:102" ph=" Created by PhpStorm. ..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gitdemo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <marker date="1506956751345" expanded="true" signature="21:102" ph=" Created by PhpStorm. ..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/a1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mult.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="11" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wk3demo/assets/dbconn.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wk3demo/assets/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wk3demo/assets/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <marker date="1508164336025" expanded="true" signature="5:94" ph="..." />
-            <marker date="1508164336025" expanded="false" signature="9:91" ph=" Created by PhpStorm. ..." />
-            <marker date="1508164336025" expanded="true" signature="128:314" ph="..." />
-            <marker date="1508164336025" expanded="true" signature="135:262" ph="..." />
-            <marker date="1508164336025" expanded="true" signature="269:314" ph="..." />
-            <marker date="1508164336025" expanded="true" signature="278:304" ph="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wk2demo/formdemo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="29" column="7" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="31" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="7" selection-start-line="22" selection-start-column="8" selection-end-line="31" selection-end-column="1" />
           <folding>
-            <marker date="1508154629123" expanded="true" signature="5:1042" ph="..." />
-            <marker date="1508154629123" expanded="false" signature="9:91" ph=" Created by PhpStorm. ..." />
-            <marker date="1508154629123" expanded="true" signature="96:184" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="336:960" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="542:958" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="692:746" ph="INSERT INTO dogs... " />
-            <marker date="1508154629123" expanded="true" signature="987:1038" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="1074:1376" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="1384:1578" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="1406:1424" ph="SELECT * FRO... dogs" />
-            <marker date="1508154629123" expanded="true" signature="1513:1576" ph="..." />
-            <marker date="1508154629123" expanded="true" signature="1546:1574" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wk3demo/assets/dogs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <marker date="1508334910693" expanded="true" signature="9:91" ph=" Created by PhpStorm. ..." />
-            <marker date="1508334910693" expanded="false" signature="124:1192" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="134:1106" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="151:169" ph="SELECT * FRO... dogs" />
-            <marker date="1508334910693" expanded="true" signature="317:995" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="397:941" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1003:1077" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1132:1190" ph="..." />
-            <marker date="1508334910693" expanded="false" signature="1240:1611" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1250:1529" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1280:1334" ph="INSERT INTO dogs... " />
-            <marker date="1508334910693" expanded="true" signature="1556:1609" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1640:1832" ph="..." />
-            <marker date="1508334910693" expanded="true" signature="1666:1699" ph="SELECT * FRO... dogs" />
+            <marker date="1508337874679" expanded="true" signature="5:1042" placeholder="..." />
+            <marker date="1508337874679" expanded="false" signature="9:91" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="96:184" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="336:960" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="542:958" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="692:746" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="987:1038" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="1074:1376" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="1384:1578" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="1406:1424" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="1513:1576" placeholder="..." />
+            <marker date="1508337874679" expanded="true" signature="1546:1574" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wk3demo/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.25668448">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wk3demo/assets/dogform.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.23529412">
+          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wk3demo/assets/dogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4054054">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+          <folding>
+            <element signature="n#getDogsAsTable#0;n#!!top" expanded="false" />
+            <marker date="1508880362421" expanded="true" signature="151:169" placeholder="..." />
+            <marker date="1508880362421" expanded="true" signature="1290:1344" placeholder="..." />
+            <marker date="1508880362421" expanded="true" signature="1676:1709" placeholder="..." />
+            <marker date="1508880362421" expanded="true" signature="1937:2012" placeholder="UPDATE `dogs... " />
+            <marker date="1508880362421" expanded="true" signature="1943:2012" placeholder="INSERT INTO dogs... " />
+            <marker date="1508880362421" expanded="true" signature="2502:2533" placeholder="DELETE FROM " />
+          </folding>
         </state>
       </provider>
     </entry>
